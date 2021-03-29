@@ -1,6 +1,6 @@
 # Author
 
-    Eduardo Reyes Garfias, siguiendo el [curso de Fernando Herrera en Udemy Angular de cero a expoerto edición 2021](https://www.udemy.com/course/angular-fernando-herrera/) 
+Eduardo Reyes Garfias, siguiendo el [curso de Fernando Herrera en Udemy Angular de cero a expoerto edición 2021](https://www.udemy.com/course/angular-fernando-herrera/) 
 
 # Bases
 

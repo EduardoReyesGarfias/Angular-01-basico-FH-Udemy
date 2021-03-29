@@ -1,3 +1,7 @@
+# Author
+
+    Eduardo Reyes Garfias, siguiendo el [curso de Fernando Herrera en Udemy Angular de cero a expoerto edición 2021](https://www.udemy.com/course/angular-fernando-herrera/) 
+
 # Bases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.

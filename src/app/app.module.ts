@@ -3,12 +3,19 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 
+// Mis modulos
+import { HeroesModule } from './heroes/heroes.module';
+import { AcumuladorModule } from './acumulador/acumulador.module';
+
+
 @NgModule({
   declarations: [
     AppComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    HeroesModule,
+    AcumuladorModule
   ],
   providers: [],
   bootstrap: [AppComponent]

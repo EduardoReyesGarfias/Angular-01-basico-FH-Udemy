@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 // Mis modulos
 import { HeroesModule } from './heroes/heroes.module';
 import { AcumuladorModule } from './acumulador/acumulador.module';
+import { DbzModule } from './dbz/dbz.module';
 
 
 @NgModule({
@@ -15,7 +16,8 @@ import { AcumuladorModule } from './acumulador/acumulador.module';
   imports: [
     BrowserModule,
     HeroesModule,
-    AcumuladorModule
+    AcumuladorModule,
+    DbzModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,1 +1,67 @@
 /* You can add global styles to this file, and also import other style files */
+/* Estilos nacen de el modulo DBZ */
+*{
+    box-sizing: border-box;
+}
+body{
+    color: black;
+    background-color: #f9f9f9;
+}
+
+hr{
+    color:white;
+    opacity: 0.7;
+}
+
+.mb-10{
+    margin-bottom:10px;
+}
+
+.p-xy{
+    padding:1rem
+}
+
+.row{
+    display: flex;
+    gap: 5px;
+}
+
+.col{
+    flex-grow: 1;
+    background-color: white;
+    border-radius:3px;
+    border-bottom:1px solid #ddd;
+}
+
+.form{
+    position: relative;
+}
+
+.form-input,
+.form-btn{
+    display: block;
+    width:100%;
+    border-radius:3px;
+    height:30px;
+    margin:.5rem 0;
+    text-transform: capitalize;
+}
+
+.form-input{
+    border:1px solid #ddd;
+    padding-left:.5rem;
+}
+
+.form-btn{
+    height:40px;
+    border:1px solid black;
+    background-color: #343434;
+    color: white;
+    transition: all .3s ease;
+    letter-spacing: 1.5px;
+}
+
+.form-btn:hover{
+    opacity:0.8;
+    cursor:pointer;
+}
